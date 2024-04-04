@@ -1,8 +1,15 @@
-### Hi there 👋
+### Hi, I'm Valentin 👋
+- 📚 I'm a 19-year-old Information Systems Engineering student at the [National Technological University](http://www.sistemas.frba.utn.edu.ar/).
 
-<!--
-**VEBravo/VEBravo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/bravovalentinennio/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:valentinenniob@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
+</p>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
